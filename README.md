@@ -65,4 +65,4 @@ Make sure the address contains the route api/v1/easterchallenge/calculate/{year}
 
 The calculator engine assumes that the range of valid years begins on the year Easter was stablished by the First Council of Nicaea (AD 325) and ends on 2120 (the end of the world according to Windows 10 Calendar  :laughing:). Hint: try put numbers outside the range.
 
-Thank you, and I wish you have a good time evaluating my code :simple_smile:
+Thank you, and I wish you have a good time evaluating my code.
